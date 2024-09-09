@@ -1,0 +1,168 @@
+﻿@{
+    ViewData["Title"] = "Privacy Policy";
+}
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - Crud_Web_App</title>
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/6.0.0-beta3/css/all.min.css" />
+    <style>
+        body {
+            background-color: #f8f9fa;
+        }
+
+        h1 {
+            color: #007bff;
+        }
+
+        .accordion-button:not(.collapsed) {
+            background-color: #007bff;
+            color: white;
+        }
+
+        .accordion-button .fas {
+            margin-right: 10px;
+        }
+
+        .accordion-body {
+            background-color: #ffffff;
+            border-radius: 5px;
+            box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+        }
+
+        .accordion-item {
+            margin-bottom: 15px;
+        }
+
+        .accordion-button {
+            font-weight: bold;
+        }
+
+        .accordion-header button:focus {
+            box-shadow: none;
+        }
+
+        ul li i {
+            color: #17a2b8;
+            margin-right: 5px;
+        }
+
+        a {
+            color: #007bff;
+        }
+
+            a:hover {
+                color: #0056b3;
+            }
+
+    </style>
+</head>
+<body>
+    <div class="container mt-5">
+        <h1 class="text-center mb-4"><i class="fas fa-user-shield"></i> Privacy Policy</h1>
+
+        <div class="accordion" id="privacyPolicyAccordion">
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingOne">
+                    <button class="accordion-button" type="button" data-bs-toggle="collapse" data-bs-target="#collapseOne" aria-expanded="true" aria-controls="collapseOne">
+                        <i class="fas fa-info-circle"></i> What User Data We Collect
+                    </button>
+                </h2>
+                <div id="collapseOne" class="accordion-collapse collapse show" aria-labelledby="headingOne" data-bs-parent="#privacyPolicyAccordion">
+                    <div class="accordion-body">
+                        When you visit the blog, we may collect the following data:
+                        <ul>
+                            <li><i class="fas fa-info-circle"></i> Your IP address.</li>
+                            <li><i class="fas fa-envelope"></i> Your contact information and email address.</li>
+                            <li><i class="fas fa-list-alt"></i> Other information such as interests and preferences.</li>
+                            <li><i class="fas fa-user-check"></i> Data profile regarding your online behavior on our blog.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingTwo">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseTwo" aria-expanded="false" aria-controls="collapseTwo">
+                        <i class="fas fa-search"></i> Why We Collect Your Data
+                    </button>
+                </h2>
+                <div id="collapseTwo" class="accordion-collapse collapse" aria-labelledby="headingTwo" data-bs-parent="#privacyPolicyAccordion">
+                    <div class="accordion-body">
+                        We are collecting your data for several reasons:
+                        <ul>
+                            <li><i class="fas fa-search"></i> To better understand your needs.</li>
+                            <li><i class="fas fa-chart-line"></i> To improve our services and products.</li>
+                            <li><i class="fas fa-envelope-open-text"></i> To send you promotional emails containing the information we think you will find interesting.</li>
+                            <li><i class="fas fa-poll"></i> To contact you to fill out surveys and participate in other types of market research.</li>
+                            <li><i class="fas fa-cogs"></i> To customize our blog according to your online behavior and personal preferences.</li>
+                        </ul>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingThree">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseThree" aria-expanded="false" aria-controls="collapseThree">
+                        <i class="fas fa-lock"></i> Safeguarding and Securing the Data
+                    </button>
+                </h2>
+                <div id="collapseThree" class="accordion-collapse collapse" aria-labelledby="headingThree" data-bs-parent="#privacyPolicyAccordion">
+                    <div class="accordion-body">
+                        "TradeZone" is committed to securing your data and keeping it confidential. [Company Name] has done all in its power to prevent data theft, unauthorized access, and disclosure by implementing the latest technologies and software, which help us safeguard all the information we collect online.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFour">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFour" aria-expanded="false" aria-controls="collapseFour">
+                        <i class="fas fa-cookie-bite"></i> Our Cookie Policy
+                    </button>
+                </h2>
+                <div id="collapseFour" class="accordion-collapse collapse" aria-labelledby="headingFour" data-bs-parent="#privacyPolicyAccordion">
+                    <div class="accordion-body">
+                        Once you agree to allow our blog to use cookies, you also agree to use the data it collects regarding your online behavior (analyze web traffic, web pages you visit and spend the most time on).
+                        <p>The data we collect by using cookies is used to customize our blog to your needs. After we use the data for statistical analysis, the data is completely removed from our systems.</p>
+                        <p>Please note that cookies don't allow us to gain control of your computer in any way. They are strictly used to monitor which pages you find useful and which you do not so that we can provide a better experience for you.</p>
+                        <p>If you want to disable cookies, you can do it by accessing the settings of your internet browser. You can visit <a href="https://www.internetcookies.com" target="_blank">https://www.internetcookies.com</a>, which contains comprehensive information on how to do this on a wide variety of browsers and devices.</p>
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingFive">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseFive" aria-expanded="false" aria-controls="collapseFive">
+                        <i class="fas fa-link"></i> Links to Other Websites
+                    </button>
+                </h2>
+                <div id="collapseFive" class="accordion-collapse collapse" aria-labelledby="headingFive" data-bs-parent="#privacyPolicyAccordion">
+                    <div class="accordion-body">
+                        Our blog contains links that lead to other websites. If you click on these links [Company Name] is not held responsible for your data and privacy protection. Visiting those websites is not governed by this privacy policy agreement. Make sure to read the privacy policy documentation of the website you go to from our website.
+                    </div>
+                </div>
+            </div>
+            <div class="accordion-item">
+                <h2 class="accordion-header" id="headingSix">
+                    <button class="accordion-button collapsed" type="button" data-bs-toggle="collapse" data-bs-target="#collapseSix" aria-expanded="false" aria-controls="collapseSix">
+                        <i class="fas fa-user-lock"></i> Restricting the Collection of your Personal Data
+                    </button>
+                </h2>
+                <div id="collapseSix" class="accordion-collapse collapse" aria-labelledby="headingSix" data-bs-parent="#privacyPolicyAccordion">
+                    <div class="accordion-body">
+                        At some point, you might wish to restrict the use and collection of your personal data. You can achieve this by doing the following:
+                        <ul>
+                            <li><i class="fas fa-square-check"></i> When you are filling the forms on the blog, make sure to check if there is a box which you can leave unchecked, if you don't want to disclose your personal information.</li>
+                            <li><i class="fas fa-envelope"></i> If you have already agreed to share your information with us, feel free to contact us via email and we will be more than happy to change this for you.</li>
+                        </ul>
+                        <p> "TradeZone" will not lease, sell or distribute your personal information to any third parties, unless we have your permission. We might do so if the law forces us. Your personal information will be used when we need to send you promotional materials if you agree to this privacy policy.</p>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>

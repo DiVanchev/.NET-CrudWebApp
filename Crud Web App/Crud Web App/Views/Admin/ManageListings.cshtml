@@ -1,0 +1,27 @@
+﻿@model IEnumerable<Crud_Web_App.Models.Listings>
+
+<h2>Manage Listings</h2>
+
+<table class="table">
+    <thead>
+        <tr>
+            <th>Name</th>
+            <th>Description</th>
+            <th>Price</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var item in Model)
+        {
+            <tr>
+                <td>@item.Name</td>
+                <td>@item.Description</td>
+                <td>@item.Price</td>
+                <td>
+                    <!-- Добавете връзки за редактиране и изтриване на обяви тук -->
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>

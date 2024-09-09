@@ -1,0 +1,26 @@
+/* Основни стилове за шрифта */
+html {
+    font-size: 14px; /* базов размер на шрифта за мобилни устройства */
+    position: relative;
+    min-height: 100%;
+}
+
+@media (min-width: 768px) {
+    html {
+        font-size: 16px; /* увеличен размер на шрифта за таблети и настолни компютри */
+    }
+}
+
+/* Стилове за фокус на елементите */
+.btn:focus,
+.btn:active:focus,
+.btn-link.nav-link:focus,
+.form-control:focus,
+.form-check-input:focus {
+    box-shadow: 0 0 0 0.1rem white, 0 0 0 0.25rem #258cfb; /* синя сянка при фокус */
+}
+
+/* Стилове за тялото */
+body {
+    margin-bottom: 60px; /* отстъп отдолу за всички страници */
+}

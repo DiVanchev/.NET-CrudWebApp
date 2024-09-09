@@ -1,0 +1,107 @@
+﻿@model IEnumerable<Crud_Web_App.Models.Listings>
+
+@{
+    ViewData["Title"] = "Listings";
+}
+
+<div class="container mt-5">
+    <h1 class="display-4 text-primary">Available Listings</h1>
+    <p class="lead text-secondary">Browse through the items available for sale or trade.</p>
+
+    <div class="text-end mb-3">
+        <a href="/listings/create" class="btn btn-primary">Add New Listing</a>
+    </div>
+
+    <div class="mb-3">
+        <input type="text" id="searchBox" class="form-control" placeholder="Search listings..." onkeyup="filterListings()" />
+    </div>
+
+    <div class="mb-3">
+        <label for="sortBy" class="form-label">Sort By:</label>
+        <select id="sortBy" class="form-select" onchange="sortListings()">
+            <option value="name">Name</option>
+            <option value="price_asc">Price: Low to High</option>
+            <option value="price_desc">Price: High to Low</option>
+        </select>
+    </div>
+
+    <div class="row" id="listingContainer">
+        @foreach (var item in Model)
+        {
+            <div class="col-md-4">
+                <div class="card mb-4 shadow-sm" style="border-radius: 10px;">
+                    <img src="@Url.Content(item.ImagePath)" class="card-img-top" alt="@item.Name" loading="lazy" style="border-top-left-radius: 10px; border-top-right-radius: 10px;" />
+                    <div class="card-body">
+                        <h5 class="card-title text-info">@item.Name</h5>
+                        <p class="card-text">@item.Description</p>
+                        <p class="card-text text-muted">Price: $@item.Price</p>
+                        <a href="/listings/details/@item.Id" class="btn btn-secondary">View Details</a>
+                    </div>
+                </div>
+            </div>
+        }
+    </div>
+</div>
+
+<script>
+    function filterListings() {
+        var input = document.getElementById("searchBox");
+        var filter = input.value.toUpperCase();
+        var cardContainer = document.getElementById("listingContainer");
+        var cards = cardContainer.getElementsByClassName("card");
+
+        for (var i = 0; i < cards.length; i++) {
+            var title = cards[i].querySelector(".card-body h5.card-title");
+            if (title.innerText.toUpperCase().indexOf(filter) > -1) {
+                cards[i].style.display = "";
+            } else {
+                cards[i].style.display = "none";
+            }
+        }
+    }
+
+    function sortListings() {
+        var sortBy = document.getElementById("sortBy").value;
+        window.location.href = '/listings?sortBy=' + sortBy;
+    }
+</script>
+
+<style>
+    body {
+        background-color: #f8f9fa; /* Лек сив фон */
+    }
+
+    .container {
+        background-color: #ffffff;
+        padding: 20px;
+        border-radius: 10px;
+        box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    }
+
+    .card {
+        transition: transform 0.2s ease-in-out;
+    }
+
+        .card:hover {
+            transform: scale(1.05);
+            box-shadow: 0 0 15px rgba(0, 0, 0, 0.2);
+        }
+
+    .btn-primary {
+        background-color: #007bff;
+        border-color: #007bff;
+    }
+
+    .btn-secondary {
+        background-color: #6c757d;
+        border-color: #6c757d;
+    }
+
+    h1 {
+        color: #007bff;
+    }
+
+    h5 {
+        color: #17a2b8;
+    }
+</style>

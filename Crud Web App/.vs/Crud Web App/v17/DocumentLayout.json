@@ -1,0 +1,708 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\admin\\systemsettings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\admin\\systemsettings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\services\\identitydatainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\services\\identitydatainitializer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\models\\systemsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\models\\systemsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\models\\listings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\models\\listings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\models\\items.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\models\\errorviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\areas\\identity\\pages\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\home\\privacy.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\controllers\\listingscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\controllers\\itemscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\controllers\\admincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\shared\\error.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\_viewimports.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\_viewstart.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\shared\\_validationscriptspartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\wwwroot\\js\\site.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\listings\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\listings\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\items\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\items\\edit.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\items\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\items\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\items\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\admin\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\admin\\manageusers.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\admin\\managelistings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\admin\\managelistings.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\admin\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\admin\\manageroles.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\views\\admin\\edituser.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js||{14D17961-FE51-464D-9111-C4AF11D7D99A}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\crud web app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\crud web app.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|c:\\users\\mitkospc\\source\\repos\\crud web app\\crud web app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{0D79F591-69F2-4AAB-8242-E246762C2736}|Crud Web App\\Crud Web App.csproj|solutionrelative:crud web app\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 153,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "SystemSettings.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Models\\SystemSettings.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Models\\SystemSettings.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Models\\SystemSettings.cs",
+              "RelativeToolTip": "Crud Web App\\Models\\SystemSettings.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBEAAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T15:04:38.529Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "IdentityDataInitializer.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Services\\IdentityDataInitializer.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Services\\IdentityDataInitializer.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Services\\IdentityDataInitializer.cs",
+              "RelativeToolTip": "Crud Web App\\Services\\IdentityDataInitializer.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwBMAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:10:46.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "RelativeToolTip": "Crud Web App\\Areas\\Identity\\Pages\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-08-26T12:17:19.306Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:39:31.889Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAACEAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T12:11:27.958Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SystemSettings.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\SystemSettings.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Admin\\SystemSettings.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\SystemSettings.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Admin\\SystemSettings.cshtml",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAUwAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T18:42:37.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ErrorViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Models\\ErrorViewModel.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Models\\ErrorViewModel.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Models\\ErrorViewModel.cs",
+              "RelativeToolTip": "Crud Web App\\Models\\ErrorViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T13:13:40.207Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Items.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Models\\Items.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Models\\Items.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Models\\Items.cs",
+              "RelativeToolTip": "Crud Web App\\Models\\Items.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T18:22:43.29Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Listings.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Models\\Listings.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Models\\Listings.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Models\\Listings.cs",
+              "RelativeToolTip": "Crud Web App\\Models\\Listings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-02T12:55:16.136Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Program.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Program.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Program.cs",
+              "RelativeToolTip": "Crud Web App\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T11:58:29.227Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Privacy.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Home\\Privacy.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Home\\Privacy.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Home\\Privacy.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Home\\Privacy.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAGsAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T12:04:01.794Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T12:04:00.743Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ListingsController.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Controllers\\ListingsController.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Controllers\\ListingsController.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Controllers\\ListingsController.cs",
+              "RelativeToolTip": "Crud Web App\\Controllers\\ListingsController.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:27:11.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "ItemsController.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Controllers\\ItemsController.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Controllers\\ItemsController.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Controllers\\ItemsController.cs",
+              "RelativeToolTip": "Crud Web App\\Controllers\\ItemsController.cs",
+              "ViewState": "AgIAAH4AAAAAAAAAAAAwwJAAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:14:04.928Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "Error.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Shared\\Error.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Shared\\Error.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Shared\\Error.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Shared\\Error.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T13:20:10.858Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Controllers\\HomeController.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Crud Web App\\Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAABVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:21:25.261Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "AdminController.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Controllers\\AdminController.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Controllers\\AdminController.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Controllers\\AdminController.cs",
+              "RelativeToolTip": "Crud Web App\\Controllers\\AdminController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-01T12:09:08.176Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "bootstrap.js",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeDocumentMoniker": "Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "RelativeToolTip": "Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.js",
+              "ViewState": "AgIAACcAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-02T16:55:45.867Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "_ViewImports.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\_ViewImports.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\_ViewImports.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\_ViewImports.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\_ViewImports.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T17:06:53.389Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "_ValidationScriptsPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Shared\\_ValidationScriptsPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T10:39:28.893Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "_ViewStart.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\_ViewStart.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\_ViewStart.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\_ViewStart.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\_ViewStart.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:17:04.427Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Crud Web App\\Data\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Crud Web App\\Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAA9wBUAAABeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-08-26T12:05:41.274Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "site.js",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\js\\site.js",
+              "RelativeDocumentMoniker": "Crud Web App\\wwwroot\\js\\site.js",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\js\\site.js",
+              "RelativeToolTip": "Crud Web App\\wwwroot\\js\\site.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-01T12:39:45.219Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "additional-methods.min.js",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeDocumentMoniker": "Crud Web App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "RelativeToolTip": "Crud Web App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.min.js",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-02T16:55:36.741Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "additional-methods.js",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeDocumentMoniker": "Crud Web App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "RelativeToolTip": "Crud Web App\\wwwroot\\lib\\jquery-validation\\dist\\additional-methods.js",
+              "ViewState": "AgIAAAIBAAAAAAAAAAAowBgBAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-01T13:19:21.013Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 26,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Listings\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Listings\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Listings\\Index.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Listings\\Index.cshtml",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAAABcAAABCAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T12:28:42.214Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Listings\\Create.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Listings\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Listings\\Create.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Listings\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T12:50:31.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Items\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Items\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Items\\Index.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Items\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:11:48.522Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Items\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Items\\Edit.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Items\\Edit.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Items\\Edit.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:11:44.142Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Items\\Details.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Items\\Details.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Items\\Details.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Items\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T11:11:18.001Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Items\\Delete.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Items\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Items\\Delete.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Items\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-02T14:49:08.388Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Items\\Create.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Items\\Create.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Items\\Create.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Items\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T12:46:06.63Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Community\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALoUAAAAAAAAAAAawMgUAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2024-09-02T15:05:12.284Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\Index.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Admin\\Index.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\Index.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Admin\\Index.cshtml",
+              "ViewState": "AgIAACEAAAAAAAAAAAAUwDwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T12:10:35.122Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ManageUsers.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\ManageUsers.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Admin\\ManageUsers.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\ManageUsers.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Admin\\ManageUsers.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T18:16:55.738Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "ManageListings.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\ManageListings.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Admin\\ManageListings.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\ManageListings.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Admin\\ManageListings.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T18:18:50.669Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "bootstrap.bundle.js",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeDocumentMoniker": "Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "RelativeToolTip": "Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.bundle.js",
+              "ViewState": "AgIAAFgaAAAAAAAAAAAAAD4CAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-01T13:22:57.403Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "ManageRoles.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\ManageRoles.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Admin\\ManageRoles.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\ManageRoles.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Admin\\ManageRoles.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T18:19:07.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "EditUser.cshtml",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\EditUser.cshtml",
+              "RelativeDocumentMoniker": "Crud Web App\\Views\\Admin\\EditUser.cshtml",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Views\\Admin\\EditUser.cshtml",
+              "RelativeToolTip": "Crud Web App\\Views\\Admin\\EditUser.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2024-09-01T18:39:30.016Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "Crud Web App.csproj",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Crud Web App.csproj",
+              "RelativeDocumentMoniker": "Crud Web App\\Crud Web App.csproj",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\Crud Web App.csproj",
+              "RelativeToolTip": "Crud Web App\\Crud Web App.csproj",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2024-08-26T12:19:59.901Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "bootstrap.esm.js",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeDocumentMoniker": "Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "RelativeToolTip": "Crud Web App\\wwwroot\\lib\\bootstrap\\dist\\js\\bootstrap.esm.js",
+              "ViewState": "AgIAAAsCAAAAAAAAAAAmwDACAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001646|",
+              "WhenOpened": "2024-09-01T13:19:13.236Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "site.css",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\css\\site.css",
+              "RelativeDocumentMoniker": "Crud Web App\\wwwroot\\css\\site.css",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\wwwroot\\css\\site.css",
+              "RelativeToolTip": "Crud Web App\\wwwroot\\css\\site.css",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
+              "WhenOpened": "2024-09-01T12:39:40.163Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\appsettings.json",
+              "RelativeDocumentMoniker": "Crud Web App\\appsettings.json",
+              "ToolTip": "C:\\Users\\MitkosPC\\source\\repos\\Crud Web App\\Crud Web App\\appsettings.json",
+              "RelativeToolTip": "Crud Web App\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2024-08-26T12:54:33.801Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
